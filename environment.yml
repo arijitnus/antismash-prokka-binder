@@ -1,0 +1,11 @@
+name: antimicro
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - prokka
+  - antismash
+  - pip
+
