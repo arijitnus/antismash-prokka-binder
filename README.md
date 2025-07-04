@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https://mybinder.org/v2/gh/YOUR_USERNAME/antismash-prokka-binder/HEAD/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arijitnus/antismash-prokka-binder/HEAD)
 # antismash-prokka-binder
 # Binder for antiSMASH and Prokka
 
